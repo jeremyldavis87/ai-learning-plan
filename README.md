@@ -1,6 +1,6 @@
 # AI Learning Resource Guide for Senior Directors in Technology Leadership
 
-A comprehensive, categorized learning pathway for Jay's 14-hour flight and beyond, covering AI fundamentals through strategic enterprise transformation.
+A comprehensive, categorized learning pathway covering AI fundamentals through strategic enterprise transformation.
 
 ## Foundation: AI and LLM Fundamentals
 
