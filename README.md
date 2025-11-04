@@ -56,7 +56,7 @@ Covers AI fundamentals, machine learning, deep learning, neural networks, and ge
 
 ## Practical Skills: Prompt Engineering & Tool Mastery
 
-Master the tools available in your Cigna environment—ChatGPT Enterprise, Microsoft Copilot—and learn advanced prompt engineering.
+Master the tools available in your enterprise environment—ChatGPT Enterprise, Microsoft Copilot—and learn advanced prompt engineering.
 
 ### ChatGPT Enterprise 101: A Beginner Guide
 **Source:** OpenAI (Official)  
@@ -405,7 +405,7 @@ Essential questions: AI model source, training data sources and licensing, priva
 
 ## Industry Perspective: AI in Healthcare and Insurance
 
-Cigna-specific and health insurance industry resources showing AI transformation in your sector.
+Health insurance industry resources showing AI transformation in your sector.
 
 ### Tackling Healthcare's Biggest Burdens with Generative AI
 **Source:** McKinsey (2024)  
@@ -415,7 +415,7 @@ Cigna-specific and health insurance industry resources showing AI transformation
 
 For payers: member services automation, claims resolution, prior authorization streamlining (reducing 10-day verification time), benefit inquiries, denial management, network insights. [mckinsey](https://www.mckinsey.com/industries/healthcare/our-insights/tackling-healthcares-biggest-burdens-with-generative-ai) Report emphasizes $1 trillion improvement potential in healthcare.
 
-**Why relevant:** Directly applicable to insurance operations at Cigna. Provides strategic framework for payer-specific AI applications including claims processing and prior authorization—core functions in health insurance. Includes risk management for protecting patient data and regulatory compliance.
+**Why relevant:** Directly applicable to insurance operations. Provides strategic framework for payer-specific AI applications including claims processing and prior authorization—core functions in health insurance. Includes risk management for protecting patient data and regulatory compliance.
 
 ---
 
@@ -439,19 +439,7 @@ Quantifies economic opportunity: **13-25% net savings in administrative costs, 5
 
 Based on December 2024 survey of 150 healthcare leaders (60 from payer organizations): 85% exploring or adopted gen AI, 61% pursuing third-party vendor partnerships, more in implementation than proof-of-concept stage. [McKinsey & Company](https://www.mckinsey.com/industries/healthcare/our-insights/generative-ai-in-healthcare-current-trends-and-future-outlook)
 
-**Why relevant:** Peer benchmarking data from other major payers. Shows where industry is in AI adoption and what strategies leaders are pursuing. Helps contextualize Cigna's AI initiatives within broader industry trends.
-
----
-
-### The Cigna Group's Approach to Ethical AI Practices
-**Source:** Cigna (2024)  
-**Format:** Case study  
-**Time:** 10 minutes  
-**URL:** https://newsroom.thecignagroup.com/the-cigna-group-approach-to-ethical-ai-practices
-
-Cigna's official perspective on AI implementation: breast cancer identification model (27 days earlier detection), lung cancer model (22 days earlier). Three AI focus areas: data and insights, empowering providers, efficient operations. AI Center of Enablement governance team. [Thecignagroup](https://newsroom.thecignagroup.com/the-cigna-group-approach-to-ethical-ai-practices)
-
-**Why relevant:** Essential internal reference showing Cigna's current AI capabilities and governance framework. Demonstrates company's commitment to ethical AI and provides concrete examples of AI in action, including predictive analytics improving patient engagement by 60%. [Cigna](https://newsroom.cigna.com/how-cigna-uses-data-and-ai-to-improve-patient-outcomes)
+**Why relevant:** Peer benchmarking data from other major payers. Shows where industry is in AI adoption and what strategies leaders are pursuing. Helps contextualize AI initiatives within broader industry trends.
 
 ---
 
@@ -487,7 +475,7 @@ Examines growing use of AI for prior authorization and claims adjudication. Cont
 
 Comprehensive legal review of 2024 state and federal AI regulations: California AB 3030 and SB 1120, New York A9149, Illinois H2472, Colorado law. Includes analysis of CMS Medicare Advantage regulations. [Holland & Knight](https://www.hklaw.com/en/insights/publications/2024/10/regulation-of-ai-in-healthcare-utilization-management)
 
-**Why relevant:** Essential compliance resource. Cigna operates nationally and must navigate state-by-state regulations. Provides detailed requirements for AI transparency, human oversight, and algorithmic discrimination prevention—critical for legal and operational teams.
+**Why relevant:** Essential compliance resource. Provides detailed requirements for AI transparency, human oversight, and algorithmic discrimination prevention—critical for legal and operational teams.
 
 ---
 
@@ -515,7 +503,7 @@ Analysis of AI in disease management and drug discovery. Reimbursement mechanism
 
 ---
 
-## Podcasts: Long-form Audio for Your Flight
+## Podcasts: Long-form Audio
 
 Six excellent podcasts with 14 specific episode recommendations, totaling 8-10 hours of listening. All downloadable on Apple Podcasts and Spotify.
 
@@ -671,7 +659,7 @@ Official best practices including six core strategies for better prompts, clear 
 
 ---
 
-## Recommended Learning Path for Your 14-Hour Flight
+## Recommended Learning Path
 
 ### Hours 1-3: Foundation Building
 - Watch: Generative AI for Everyone (3 hours) - Andrew Ng's accessible introduction
@@ -697,7 +685,6 @@ Official best practices including six core strategies for better prompts, clear 
 
 ### Hours 13-14: Industry Focus and Podcasts
 - Read: McKinsey "Tackling Healthcare's Biggest Burdens with Gen AI" (25 minutes)
-- Read: Cigna's Ethical AI Practices (10 minutes)
 - Listen: Me, Myself, and AI episodes (queue up for remaining flight time)
 
 ### Post-Flight: Hands-On Learning
@@ -715,7 +702,7 @@ Official best practices including six core strategies for better prompts, clear 
 
 **For Tech Ops:** AIOps can save $4.8M annually and cut IT work by 50%, creating capacity for strategic initiatives without headcount increases. Use these savings to fund other AI investments.
 
-**For Cigna Context:** Your industry (insurance) is experiencing the largest AI impact alongside legal, banking, and capital markets. McKinsey quantifies 13-25% administrative savings and 5-11% medical cost savings specifically for payers. Cigna's existing AI capabilities (27 days earlier cancer detection, 60% improved patient engagement) demonstrate leadership position.
+**For Healthcare Context:** The industry (insurance) is experiencing the largest AI impact alongside legal, banking, and capital markets. McKinsey quantifies 13-25% administrative savings and 5-11% medical cost savings specifically for payers. 
 
 **For Implementation:** Only 26% of companies move beyond POC, and just 4% create substantial value. Success factors: workflow redesign, CEO oversight of governance, focus on core business processes (not just support functions), and ruthless prioritization of fewer high-ROI initiatives.
 
